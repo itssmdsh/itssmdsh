@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mohammad 👋
 
-<!--
-**itssmdsh/itssmdsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+🎓 Pre-final year B.Tech CSE student at the College of Engineering and Management.  
+💻 Passionate software engineer with expertise in Java, C, and Python.  
+🤖 Enthusiast in Machine Learning, always eager to explore and learn new technologies.  
+🔧 Continuously working on expanding my skills and contributing to the tech community.
 
-Here are some ideas to get you started:
+### My Skills
+- Languages: Java, C, Python
+- Interests: Machine Learning, Software Development
+- Tools & Technologies: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+📧 Email: md.workhub@gmail.com
+
+### Let's Collaborate!
+I'm always open to collaboration on interesting projects. Let's build something amazing together!
