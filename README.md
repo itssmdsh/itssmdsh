@@ -12,7 +12,7 @@
 - Tools & Technologies: Git, GitHub, VS Code
 
 ### Get in Touch
-📧 Email: md.workhub@gmail.com
+📧 Email: mohammad.worklife@gmail.com
 
 ### Let's Collaborate!
 I'm always open to collaboration on interesting projects. Let's build something amazing together!
