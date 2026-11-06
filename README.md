@@ -1,121 +1,128 @@
 # 👋 Hey, I'm Mohammad!
 
-### Software Developer | Java | Machine Learning | Backend Development
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Java+%7C+Python+%7C+Software+Development;Exploring+AI%2C+ML+%26+Backend+Engineering;Turning+Problems+Into+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Software+Developer;Java+%7C+Python+%7C+Backend+Development;Exploring+AI+%26+Machine+Learning;Building+Technology+That+Matters" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itssmdsh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itssmdsh&label=PROFILE+VIEWS&color=39FF14&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🟢 ABOUT ME
 
 - 🎓 B.Tech in Computer Science & Engineering — 2026 Graduate.
 - 💻 Interested in Software Engineering and Backend Development.
 - ☕ Working with Java, Python, C, and SQL.
-- 🤖 Exploring Machine Learning, Artificial Intelligence, and Data Engineering.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🏆 Smart India Hackathon Finalist.
 - 🎯 GATE CS 2025 — AIR 10,283.
-- 📊 GATE DA 2026 — AIR 5,690.
+- 🎯 GATE DA 2026 — AIR 5,690.
 - 🔭 Building applications that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ TECH STACK & TECHNOLOGIES
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=java,python,c,kotlin,js&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,androidstudio,tensorflow,opencv,react,nodejs,express" />
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=spring,nodejs,express,tensorflow,opencv&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <img height="55" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img height="55" src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,vercel,aws" />
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,vercel&theme=dark&perline=5" />
 </p>
 
-### 🔧 Development Tools
+### 🔧 Tools & Development Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,docker" />
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark&perline=5" />
 </p>
 
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=linux,maven&theme=dark&perline=5" />
 </p>
 
 ---
 
-## 💡 Featured Projects
+## 🧠 FEATURED PROJECTS
 
-### 1. 🗣️ Ishaara — Sign Language to Speech
+### 🟢 01. Ishaara — Sign Language to Speech
 
-An application designed to help people with speech disabilities communicate through Indian Sign Language.
+An application designed to help people communicate through Indian Sign Language.
 
 - Real-time hand and pose landmark detection.
-- MediaPipe and TensorFlow Lite integration.
-- Gesture recognition and text-to-speech conversion.
-- Android application built using Kotlin.
+- MediaPipe Hand & Pose Landmarker.
+- TensorFlow Lite gesture recognition.
+- Kotlin and Android development.
+- Text-to-speech conversion with Hindi support.
 
-### 2. 🤖 AI Job Parser
+### 🟢 02. AI Job Parser
 
-An AI-powered Chrome extension that extracts and structures job information from web pages.
+An AI-powered Chrome extension for extracting structured job information from web pages.
 
 - Chrome Extension Manifest V3.
 - Node.js and Express backend.
 - OpenAI structured output integration.
-- Automated job information extraction and processing.
+- Automated information extraction.
+- Secure API integration and validation.
 
-### 3. 💼 Job Application Portal
+### 🟢 03. Job Application Portal
 
-A platform designed to aggregate and organize job opportunities from multiple sources.
+A platform for aggregating and organizing job opportunities.
 
 - Automated job information collection.
-- Backend and database integration.
+- Backend integration.
 - Job application link management.
 
 ---
 
-## 🏆 Achievements
-
-| Achievement | Details |
-|:---|:---|
-| Smart India Hackathon | Finalist |
-| GATE CS 2025 | AIR 10,283 |
-| GATE DA 2026 | AIR 5,690 |
-| B.Tech CSE | CGPA 8.86 |
-
----
-
-## 📊 GitHub Statistics
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itssmdsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssmdsh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/SMART_INDIA_HACKATHON-FINALIST-39FF14?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=itssmdsh&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/GATE_CS_2025-AIR_10283-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GATE_DA_2026-AIR_5690-39FF14?style=for-the-badge&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.TECH_CGPA-8.86-39FF14?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GITHUB STATISTICS
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itssmdsh&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssmdsh&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=itssmdsh&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itssmdsh/itssmdsh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
@@ -123,28 +130,30 @@ A platform designed to aggregate and organize job opportunities from multiple so
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:mohammad.worklife@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/itssmdsh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
   </a>
   <a href="https://www.linkedin.com/in/itsmdsh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  </a>
+  <a href="mailto:mohammad.worklife@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:103900,100:39FF14&height=140&section=footer" />
 </p>
 
+<h3 align="center">
+  <code>BUILD. LEARN. INNOVATE.</code>
+</h3>
+
 <p align="center">
-  <b>Building. Learning. Innovating.</b>
-  <br/>
-  Thanks for visiting my profile!
+  <i>Thanks for visiting my profile!</i>
 </p>
