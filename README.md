@@ -122,11 +122,6 @@ A platform for aggregating and organizing job opportunities.
 
 ---
 
-## 🐍 CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itssmdsh/itssmdsh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
